@@ -1,0 +1,4 @@
+files:
+  - source: /README.md
+    translation: /available_languages/%two_letters_code%
+    multilingual: 1
